@@ -7,7 +7,7 @@
 #'\describe{
 #'  \item{Station}{station, station that collected the data}
 #'  \item{Latitude}{latitude, part of the coordinate}
-#'  ...
+#'  \item{Longitude}{longitude, part of the coordinate}
 #'}
 #'
 #'@source \url(https://www.ncdc.noaa.gov/cdo-web/)
