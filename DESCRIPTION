@@ -1,9 +1,9 @@
 Package: chicagoclimate
-Title: What the Package Does (One Line, Title Case)
+Title: share data related to climate for Chicago and a function which creates a choropleth map from a given dataset
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Andrea",
+           family = "Domiter",
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
