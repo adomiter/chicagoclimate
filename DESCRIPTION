@@ -17,3 +17,5 @@ Depends:
     R (>= 2.10)
 Imports: 
     tmap
+URL: https://github.com/adomiter/chicagoclimate
+BugReports: https://github.com/adomiter/chicagoclimate/issues
